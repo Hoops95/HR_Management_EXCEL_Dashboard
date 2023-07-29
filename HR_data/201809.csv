@@ -1,0 +1,753 @@
+Date,EmpID,Gender,Age,EthnicGroup,FP,TermDate,isNewHire,BU Region,HireDate,PayType,TermReason,AgeGroup,TenureDays,TenureMonths,BadHires
+1/09/2018,74,M,48,Group A,PT,14/09/2014, ,North,30/08/2014,Hourly,Voluntary,30-49,15,0.5,1
+1/09/2018,1158,F,21,Group B,PT,30/09/2014,Yes,North,26/09/2014,Hourly,Voluntary,<30,4,0.13,1
+1/09/2018,1548,M,18,Group A,PT,13/09/2014, ,North,28/08/2014,Hourly,Voluntary,<30,16,0.53,1
+1/09/2018,1568,M,20,Group F,PT, , ,North,21/08/2014,Hourly, ,<30,11,0.37,0
+1/09/2018,1654,F,18,Group D,PT,3/09/2014, ,North,8/05/2014,Hourly,Voluntary,<30,118,3.93,0
+1/09/2018,1940,M,19,Group E,PT, , ,North,25/07/2014,Hourly, ,<30,38,1.27,0
+1/09/2018,1950,M,39,Group A,PT,17/09/2014, ,North,27/08/2008,Hourly,Voluntary,30-49,2212,73.73,0
+1/09/2018,1976,M,43,Group A,PT, , ,North,20/09/2013,Hourly, ,30-49,346,11.53,0
+1/09/2018,2524,M,31,Group D,PT,24/09/2014, ,Midwest,28/08/2014,Hourly,Voluntary,30-49,27,0.9,1
+1/09/2018,3046,M,19,Group A,PT,18/09/2014, ,Midwest,28/08/2014,Hourly,Voluntary,<30,21,0.7,1
+1/09/2018,3136,F,20,Group B,PT,23/09/2014, ,Midwest,28/08/2014,Hourly,Voluntary,<30,26,0.87,1
+1/09/2018,3326,M,29,Group E,PT, , ,Midwest,27/06/2014,Hourly, ,<30,66,2.2,0
+1/09/2018,3500,M,19,Group C,PT,24/09/2014, ,Midwest,19/03/2014,Hourly,Voluntary,<30,189,6.3,0
+1/09/2018,3802,M,31,Group A,PT, ,Yes,South,13/09/2014,Hourly, ,30-49,0,0,0
+1/09/2018,3804,M,19,Group D,PT, ,Yes,South,13/09/2014,Hourly, ,<30,0,0,0
+1/09/2018,4010,M,24,Group C,PT,10/09/2014, ,South,1/06/2014,Hourly,Voluntary,<30,101,3.37,0
+1/09/2018,4014,F,24,Group C,PT, , ,South,1/06/2014,Hourly, ,<30,92,3.07,0
+1/09/2018,4100,M,58,Group D,PT,24/09/2014,Yes,South,24/09/2014,Hourly,Voluntary,50+,0,0,1
+1/09/2018,4132,F,18,Group C,PT, ,Yes,South,5/09/2014,Hourly, ,<30,0,0,0
+1/09/2018,4580,M,23,Group G,PT, ,Yes,South,11/09/2014,Hourly, ,<30,0,0,0
+1/09/2018,4608,F,69,Group D,PT,27/09/2014,Yes,South,25/09/2014,Hourly,Voluntary,50+,2,0.07,1
+1/09/2018,4950,M,18,Group F,PT, , ,South,28/08/2014,Hourly, ,<30,4,0.13,0
+1/09/2018,5064,M,29,Group G,PT, , ,South,21/05/2014,Hourly, ,<30,103,3.43,0
+1/09/2018,5068,M,21,Group A,PT,19/09/2014, ,South,1/07/2014,Hourly,Voluntary,<30,80,2.67,0
+1/09/2018,5082,M,32,Group D,PT,28/09/2014,Yes,South,25/09/2014,Hourly,Voluntary,30-49,3,0.1,1
+1/09/2018,5088,M,53,Group B,PT, , ,South,4/06/2014,Hourly, ,50+,89,2.97,0
+1/09/2018,5202,M,25,Group E,PT, , ,North,12/08/2010,Hourly, ,<30,1481,49.37,0
+1/09/2018,5254,F,24,Group B,PT,12/09/2014, ,North,28/08/2014,Hourly,Voluntary,<30,15,0.5,1
+1/09/2018,5268,M,20,Group A,PT, , ,North,16/08/2013,Hourly, ,<30,381,12.7,0
+1/09/2018,5296,F,22,Group D,PT,25/09/2014, ,Midwest,27/06/2014,Hourly,Voluntary,<30,90,3,0
+1/09/2018,6030,F,20,Group A,PT,29/09/2014, ,Midwest,28/08/2014,Hourly,Voluntary,<30,32,1.07,1
+1/09/2018,6286,M,26,Group C,PT,29/09/2014,Yes,North,26/09/2014,Hourly,Voluntary,<30,3,0.1,1
+1/09/2018,6754,F,70,Group E,PT,27/09/2014, ,North,28/08/2014,Hourly,Voluntary,50+,30,1,1
+1/09/2018,6892,M,48,Group E,PT,11/09/2014, ,Midwest,29/08/2014,Hourly,Voluntary,30-49,13,0.43,1
+1/09/2018,6998,F,24,Group F,PT, , ,South,29/08/2014,Hourly, ,<30,3,0.1,0
+1/09/2018,7004,F,18,Group D,PT, , ,Midwest,5/08/2014,Hourly, ,<30,27,0.9,0
+1/09/2018,7016,M,20,Group A,PT,23/09/2014, ,South,23/05/2014,Hourly,Voluntary,<30,123,4.1,0
+1/09/2018,7062,M,26,Group A,PT,1/09/2014, ,North,6/06/2014,Hourly,Voluntary,<30,87,2.9,0
+1/09/2018,7122,F,33,Group C,PT,26/09/2014,Yes,North,25/09/2014,Hourly,Voluntary,30-49,1,0.03,1
+1/09/2018,7598,M,45,Group C,PT,17/09/2014, ,South,29/08/2014,Hourly,Voluntary,30-49,19,0.63,1
+1/09/2018,7694,M,18,Group D,PT, , ,Midwest,21/08/2014,Hourly, ,<30,11,0.37,0
+1/09/2018,7822,M,18,Group F,PT,19/09/2014, ,Midwest,28/08/2014,Hourly,Voluntary,<30,22,0.73,1
+1/09/2018,7902,M,37,Group G,PT,15/09/2014, ,Midwest,30/08/2014,Hourly,Voluntary,30-49,16,0.53,1
+1/09/2018,8036,F,46,Group C,PT,30/09/2014,Yes,Midwest,23/09/2014,Hourly,Voluntary,30-49,7,0.23,1
+1/09/2018,8270,M,22,Group A,PT,7/09/2014, ,Midwest,10/05/2014,Hourly,Voluntary,<30,120,4,0
+1/09/2018,8902,F,19,Group C,PT, , ,North,13/08/2014,Hourly, ,<30,19,0.63,0
+1/09/2018,8960,M,33,Group F,PT, , ,North,18/07/2014,Hourly, ,30-49,45,1.5,0
+1/09/2018,9094,M,19,Group A,PT,30/09/2014,Yes,North,20/09/2014,Hourly,Involuntary,<30,10,0.33,1
+1/09/2018,9094,M,19,Group A,PT, ,Yes,North,20/09/2014,Hourly, ,<30,0,0,0
+1/09/2018,9302,M,20,Group F,PT,7/09/2014, ,North,29/08/2014,Hourly,Voluntary,<30,9,0.3,1
+1/09/2018,9390,M,53,Group D,PT,22/09/2014, ,North,28/08/2014,Hourly,Voluntary,50+,25,0.83,1
+1/09/2018,10034,F,19,Group B,PT, , ,North,24/07/2014,Hourly, ,<30,39,1.3,0
+1/09/2018,10072,M,22,Group B,PT,10/09/2014, ,North,30/08/2014,Hourly,Voluntary,<30,11,0.37,1
+1/09/2018,10074,M,26,Group A,PT, , ,North,23/08/2014,Hourly, ,<30,9,0.3,0
+1/09/2018,10156,M,18,Group F,PT,27/09/2014,Yes,North,27/09/2014,Hourly,Voluntary,<30,0,0,1
+1/09/2018,10220,M,29,Group G,PT, , ,North,15/08/2014,Hourly, ,<30,17,0.57,0
+1/09/2018,10276,F,24,Group F,PT,27/09/2014,Yes,North,23/09/2014,Hourly,Voluntary,<30,4,0.13,1
+1/09/2018,10580,F,20,Group B,PT, , ,South,7/08/2014,Hourly, ,<30,25,0.83,0
+1/09/2018,10760,M,33,Group D,PT,24/09/2014, ,South,31/07/2014,Hourly,Voluntary,30-49,55,1.83,1
+1/09/2018,10842,F,37,Group F,PT, , ,South,10/07/2014,Hourly, ,30-49,53,1.77,0
+1/09/2018,10854,F,20,Group G,PT, , ,South,31/10/2013,Hourly, ,<30,305,10.17,0
+1/09/2018,10908,M,18,Group A,PT, ,Yes,South,9/09/2014,Hourly, ,<30,0,0,0
+1/09/2018,10982,M,30,Group E,PT,30/09/2014, ,South,29/05/2014,Hourly,Voluntary,30-49,124,4.13,0
+1/09/2018,10982,M,30,Group E,PT, , ,South,29/05/2014,Hourly, ,30-49,95,3.17,0
+1/09/2018,10990,M,50,Group F,PT, , ,South,29/05/2014,Hourly, ,50+,95,3.17,0
+1/09/2018,11068,F,24,Group B,PT,15/09/2014, ,South,28/08/2014,Hourly,Involuntary,<30,18,0.6,1
+1/09/2018,11350,M,48,Group B,PT, , ,South,10/07/2014,Hourly, ,30-49,53,1.77,0
+1/09/2018,11414,M,33,Group F,PT,15/09/2014, ,South,28/08/2014,Hourly,Voluntary,30-49,18,0.6,1
+1/09/2018,11622,F,24,Group B,PT,21/09/2014, ,South,8/08/2014,Hourly,Involuntary,<30,44,1.47,1
+1/09/2018,11638,F,19,Group C,PT,1/09/2014, ,South,24/05/2014,Hourly,Involuntary,<30,100,3.33,0
+1/09/2018,11640,F,21,Group C,PT,10/09/2014, ,South,19/06/2014,Hourly,Involuntary,<30,83,2.77,0
+1/09/2018,11692,F,32,Group A,PT,13/09/2014, ,South,29/08/2014,Hourly,Involuntary,30-49,15,0.5,1
+1/09/2018,11780,M,38,Group B,PT, , ,South,28/08/2014,Hourly, ,30-49,4,0.13,0
+1/09/2018,11802,M,35,Group F,PT,11/09/2014, ,South,19/06/2014,Hourly,Involuntary,30-49,84,2.8,0
+1/09/2018,11854,M,27,Group E,PT,16/09/2014, ,South,28/08/2014,Hourly,Voluntary,<30,19,0.63,1
+1/09/2018,11958,M,33,Group D,PT,25/09/2014, ,South,28/08/2014,Hourly,Voluntary,30-49,28,0.93,1
+1/09/2018,12026,M,22,Group E,PT, , ,South,14/08/2014,Hourly, ,<30,18,0.6,0
+1/09/2018,12038,F,25,Group B,PT,24/09/2014,Yes,South,24/09/2014,Hourly,Involuntary,<30,0,0,1
+1/09/2018,12282,M,19,Group D,PT,28/09/2014, ,South,28/08/2014,Hourly,Involuntary,<30,31,1.03,1
+1/09/2018,12284,F,25,Group C,PT,13/09/2014, ,South,28/08/2014,Hourly,Involuntary,<30,16,0.53,1
+1/09/2018,12374,M,24,Group G,PT,30/09/2014,Yes,South,24/09/2014,Hourly,Voluntary,<30,6,0.2,1
+1/09/2018,13474,M,19,Group D,PT, ,Yes,West,16/09/2014,Hourly, ,<30,0,0,0
+1/09/2018,13554,F,18,Group D,PT,27/09/2014,Yes,Northwest,24/09/2014,Hourly,Involuntary,<30,3,0.1,1
+1/09/2018,13616,F,18,Group A,PT,27/09/2014,Yes,Northwest,26/09/2014,Hourly,Voluntary,<30,1,0.03,1
+1/09/2018,13734,M,20,Group C,PT, ,Yes,Northwest,5/09/2014,Hourly, ,<30,0,0,0
+1/09/2018,13834,M,28,Group C,PT, ,Yes,Central,9/09/2014,Hourly, ,<30,0,0,0
+1/09/2018,14244,M,34,Group B,PT, ,Yes,West,24/09/2014,Hourly, ,30-49,0,0,0
+1/09/2018,14246,M,19,Group A,PT, ,Yes,West,18/09/2014,Hourly, ,<30,0,0,0
+1/09/2018,14458,M,36,Group F,PT,28/09/2014,Yes,Northwest,24/09/2014,Hourly,Involuntary,30-49,4,0.13,1
+1/09/2018,14480,F,18,Group C,PT,28/09/2014,Yes,Northwest,24/09/2014,Hourly,Involuntary,<30,4,0.13,1
+1/09/2018,14486,M,18,Group F,PT, ,Yes,Northwest,17/09/2014,Hourly, ,<30,0,0,0
+1/09/2018,14562,M,20,Group B,PT, , ,Central,26/08/2014,Hourly, ,<30,6,0.2,0
+1/09/2018,14572,F,21,Group D,PT,14/09/2014, ,Central,29/08/2014,Hourly,Involuntary,<30,16,0.53,1
+1/09/2018,14648,F,22,Group A,PT, ,Yes,Central,24/09/2014,Hourly, ,<30,0,0,0
+1/09/2018,14666,F,20,Group D,PT,23/09/2014, ,West,23/07/2014,Hourly,Involuntary,<30,62,2.07,0
+1/09/2018,15410,M,25,Group B,PT, ,Yes,Central,13/09/2014,Hourly, ,<30,0,0,0
+1/09/2018,15592,M,34,Group D,PT,29/09/2014,Yes,Central,23/09/2014,Hourly,Voluntary,30-49,6,0.2,1
+1/09/2018,15666,M,26,Group C,PT,13/09/2014, ,Central,29/08/2014,Hourly,Voluntary,<30,15,0.5,1
+1/09/2018,15788,F,20,Group D,PT,5/09/2014, ,West,29/08/2014,Hourly,Voluntary,<30,7,0.23,1
+1/09/2018,16000,M,55,Group G,PT,28/09/2014, ,Central,28/08/2014,Hourly,Voluntary,50+,31,1.03,1
+1/09/2018,16110,M,45,Group A,PT,29/09/2014, ,Northwest,28/08/2014,Hourly,Voluntary,30-49,32,1.07,1
+1/09/2018,16376,M,30,Group F,PT,24/09/2014,Yes,West,24/09/2014,Hourly,Voluntary,30-49,0,0,1
+1/09/2018,16414,M,49,Group F,PT, , ,Northwest,11/07/2014,Hourly, ,30-49,52,1.73,0
+1/09/2018,16418,M,18,Group G,PT, ,Yes,Northwest,12/09/2014,Hourly, ,<30,0,0,0
+1/09/2018,16974,F,19,Group A,PT,3/09/2014, ,West,30/08/2014,Hourly,Involuntary,<30,4,0.13,1
+1/09/2018,16996,F,21,Group C,PT,14/09/2014, ,West,13/03/2014,Hourly,Involuntary,<30,185,6.17,0
+1/09/2018,17006,M,20,Group B,PT, ,Yes,West,26/09/2014,Hourly, ,<30,0,0,0
+1/09/2018,17362,F,29,Group B,FT, , ,East,20/12/2011,Hourly, ,<30,986,32.87,0
+1/09/2018,17474,F,25,Group E,PT,9/09/2014, ,East,12/08/2014,Hourly,Voluntary,<30,28,0.93,1
+1/09/2018,17768,M,20,Group A,PT,15/09/2014, ,Northwest,28/08/2014,Hourly,Voluntary,<30,18,0.6,1
+1/09/2018,18006,F,18,Group E,PT, , ,Northwest,7/06/2014,Hourly, ,<30,86,2.87,0
+1/09/2018,18024,M,53,Group C,PT, , ,Northwest,5/08/2014,Hourly, ,50+,27,0.9,0
+1/09/2018,18264,F,19,Group D,PT, ,Yes,West,4/09/2014,Hourly, ,<30,0,0,0
+1/09/2018,18374,M,18,Group E,PT,27/09/2014, ,Northwest,29/08/2014,Hourly,Voluntary,<30,29,0.97,1
+1/09/2018,18824,F,21,Group G,PT,1/09/2014, ,West,31/07/2014,Hourly,Involuntary,<30,32,1.07,1
+1/09/2018,18940,F,24,Group C,PT, , ,West,22/08/2014,Hourly, ,<30,10,0.33,0
+1/09/2018,18994,F,21,Group B,FT, , ,Northwest,9/09/2013,Hourly, ,<30,357,11.9,0
+1/09/2018,19120,M,37,Group A,PT,4/09/2014, ,Central,4/06/2014,Hourly,Voluntary,30-49,92,3.07,0
+1/09/2018,19268,M,19,Group C,PT,26/09/2014, ,West,29/08/2014,Hourly,Voluntary,<30,28,0.93,1
+1/09/2018,19376,M,19,Group C,PT, , ,Central,3/10/2013,Hourly, ,<30,333,11.1,0
+1/09/2018,19418,M,20,Group G,PT, ,Yes,Central,24/09/2014,Hourly, ,<30,0,0,0
+1/09/2018,19442,M,22,Group D,PT, , ,Central,17/06/2014,Hourly, ,<30,76,2.53,0
+1/09/2018,19598,F,19,Group G,PT, , ,Northwest,13/02/2014,Hourly, ,<30,200,6.67,0
+1/09/2018,19870,M,24,Group A,PT, , ,Northwest,24/10/2013,Hourly, ,<30,312,10.4,0
+1/09/2018,20430,M,23,Group B,PT, ,Yes,Central,3/09/2014,Hourly, ,<30,0,0,0
+1/09/2018,21046,M,20,Group F,PT, , ,Central,30/07/2014,Hourly, ,<30,33,1.1,0
+1/09/2018,21472,M,24,Group B,PT,8/09/2014, ,Northwest,10/04/2014,Hourly,Involuntary,<30,151,5.03,0
+1/09/2018,21496,M,21,Group D,PT,19/09/2014, ,Northwest,28/08/2014,Hourly,Voluntary,<30,22,0.73,1
+1/09/2018,21544,F,27,Group B,PT,18/09/2014, ,Northwest,2/09/2010,Hourly,Involuntary,<30,1477,49.23,0
+1/09/2018,21600,F,21,Group G,PT,14/09/2014, ,South,13/06/2014,Hourly,Voluntary,<30,93,3.1,0
+1/09/2018,21628,F,20,Group G,PT, , ,Northwest,12/06/2014,Hourly, ,<30,81,2.7,0
+1/09/2018,21630,F,19,Group B,PT, , ,South,18/10/2013,Hourly, ,<30,318,10.6,0
+1/09/2018,21788,F,16,Group D,PT,18/09/2014, ,South,29/08/2014,Hourly,Involuntary,<30,20,0.67,1
+1/09/2018,21870,F,21,Group C,PT, , ,North,13/09/2013,Hourly, ,<30,353,11.77,0
+1/09/2018,21990,M,17,Group E,PT, , ,Midwest,20/08/2014,Hourly, ,<30,12,0.4,0
+1/09/2018,22472,F,43,Group F,PT,28/09/2014,Yes,East,23/09/2014,Hourly,Voluntary,30-49,5,0.17,1
+1/09/2018,23046,F,38,Group B,PT,26/09/2014,Yes,Northwest,26/09/2014,Hourly,Voluntary,30-49,0,0,1
+1/09/2018,23112,F,21,Group G,PT,9/09/2014, ,North,22/02/2012,Hourly,Voluntary,<30,930,31,0
+1/09/2018,23296,F,23,Group D,PT,28/09/2014,Yes,Central,24/09/2014,Hourly,Voluntary,<30,4,0.13,1
+1/09/2018,23880,M,20,Group D,PT,27/09/2014,Yes,West,25/09/2014,Hourly,Voluntary,<30,2,0.07,1
+1/09/2018,24238,M,58,Group D,PT,4/09/2014, ,Northwest,29/08/2014,Hourly,Voluntary,50+,6,0.2,1
+1/09/2018,24422,M,30,Group D,FT,30/09/2014,Yes,East,30/09/2014,Hourly,Voluntary,30-49,0,0,1
+1/09/2018,24502,F,23,Group F,PT, , ,East,17/09/2013,Hourly, ,<30,349,11.63,0
+1/09/2018,24556,F,22,Group G,PT,26/09/2014,Yes,East,25/09/2014,Hourly,Voluntary,<30,1,0.03,1
+1/09/2018,24614,F,24,Group A,PT,29/09/2014, ,North,23/08/2013,Hourly,Voluntary,<30,402,13.4,0
+1/09/2018,24684,M,38,Group F,PT,26/09/2014, ,West,21/05/2014,Hourly,Voluntary,30-49,128,4.27,0
+1/09/2018,24700,F,21,Group F,FT, , ,East,7/05/2014,Hourly, ,<30,117,3.9,0
+1/09/2018,24994,M,21,Group B,PT, , ,Northwest,19/11/2013,Hourly, ,<30,286,9.53,0
+1/09/2018,25044,F,20,Group G,PT, , ,Central,21/06/2013,Hourly, ,<30,437,14.57,0
+1/09/2018,25272,F,38,Group A,PT,20/09/2014, ,Northwest,28/08/2014,Hourly,Voluntary,30-49,23,0.77,1
+1/09/2018,25902,M,19,Group B,PT,22/09/2014, ,Northwest,29/08/2014,Hourly,Voluntary,<30,24,0.8,1
+1/09/2018,25934,F,26,Group C,PT,28/09/2014,Yes,Northwest,25/09/2014,Hourly,Voluntary,<30,3,0.1,1
+1/09/2018,26030,M,41,Group D,PT,3/09/2014, ,Northwest,29/08/2014,Hourly,Voluntary,30-49,5,0.17,1
+1/09/2018,26232,M,21,Group E,PT, , ,Northwest,13/06/2014,Hourly, ,<30,80,2.67,0
+1/09/2018,26846,M,49,Group D,FT,27/09/2014, ,North,29/07/2014,Hourly,Voluntary,30-49,60,2,1
+1/09/2018,26870,M,35,Group A,PT, ,Yes,Central,3/09/2014,Hourly, ,30-49,0,0,0
+1/09/2018,27110,M,27,Group G,PT,12/09/2014, ,North,28/08/2014,Hourly,Voluntary,<30,15,0.5,1
+1/09/2018,27676,F,21,Group A,PT, , ,East,11/03/2014,Hourly, ,<30,174,5.8,0
+1/09/2018,28066,M,29,Group F,PT, , ,Northwest,30/04/2014,Hourly, ,<30,124,4.13,0
+1/09/2018,28076,M,21,Group E,PT, ,Yes,Northwest,27/09/2014,Hourly, ,<30,0,0,0
+1/09/2018,28262,M,61,Group B,PT,27/09/2014, ,Central,1/11/2013,Hourly,Voluntary,50+,330,11,0
+1/09/2018,28394,F,19,Group F,PT, , ,West,27/08/2014,Hourly, ,<30,5,0.17,0
+1/09/2018,28738,F,23,Group G,PT, , ,Central,16/09/2012,Hourly, ,<30,715,23.83,0
+1/09/2018,28758,M,22,Group A,PT, , ,West,7/01/2014,Hourly, ,<30,237,7.9,0
+1/09/2018,29044,M,46,Group C,PT, , ,West,5/06/2014,Hourly, ,30-49,88,2.93,0
+1/09/2018,29308,F,39,Group D,PT,29/09/2014,Yes,Central,24/09/2014,Hourly,Voluntary,30-49,5,0.17,1
+1/09/2018,29416,M,24,Group A,PT, , ,West,21/08/2014,Hourly, ,<30,11,0.37,0
+1/09/2018,29552,F,27,Group B,PT,13/09/2014, ,West,15/03/2013,Hourly,Voluntary,<30,547,18.23,0
+1/09/2018,29830,F,20,Group B,PT, , ,Central,4/06/2014,Hourly, ,<30,89,2.97,0
+1/09/2018,29840,M,45,Group F,PT, ,Yes,Central,13/09/2014,Hourly, ,30-49,0,0,0
+1/09/2018,29856,M,59,Group F,PT,16/09/2014, ,Central,18/06/2014,Hourly,Voluntary,50+,90,3,0
+1/09/2018,30202,M,40,Group F,PT,11/09/2014, ,Northwest,4/06/2014,Hourly,Voluntary,30-49,99,3.3,0
+1/09/2018,30222,M,21,Group B,PT,17/09/2014, ,Northwest,9/05/2014,Hourly,Voluntary,<30,131,4.37,0
+1/09/2018,30256,M,26,Group E,PT,18/09/2014, ,Northwest,7/08/2014,Hourly,Voluntary,<30,42,1.4,1
+1/09/2018,30260,M,26,Group A,PT, , ,Northwest,18/06/2014,Hourly, ,<30,75,2.5,0
+1/09/2018,30676,M,38,Group C,PT,11/09/2014, ,Northwest,29/08/2014,Hourly,Voluntary,30-49,13,0.43,1
+1/09/2018,30698,M,21,Group F,PT,26/09/2014,Yes,Northwest,26/09/2014,Hourly,Voluntary,<30,0,0,1
+1/09/2018,30902,M,25,Group F,PT, , ,Northwest,16/08/2014,Hourly, ,<30,16,0.53,0
+1/09/2018,30924,M,28,Group G,PT, , ,Northwest,7/05/2014,Hourly, ,<30,117,3.9,0
+1/09/2018,30934,M,54,Group B,PT,24/09/2014, ,Northwest,3/11/2011,Hourly,Voluntary,50+,1056,35.2,0
+1/09/2018,30950,M,20,Group C,PT, , ,Northwest,30/07/2014,Hourly, ,<30,33,1.1,0
+1/09/2018,31126,M,24,Group D,PT,8/09/2014, ,Northwest,29/08/2014,Hourly,Voluntary,<30,10,0.33,1
+1/09/2018,31772,M,52,Group C,PT, , ,West,21/08/2014,Hourly, ,50+,11,0.37,0
+1/09/2018,32024,M,17,Group E,PT, , ,Central,25/06/2014,Hourly, ,<30,68,2.27,0
+1/09/2018,32034,F,19,Group E,PT,25/09/2014, ,North,5/11/2013,Hourly,Voluntary,<30,324,10.8,0
+1/09/2018,32316,F,30,Group A,PT,13/09/2014, ,Midwest,28/08/2014,Hourly,Voluntary,30-49,16,0.53,1
+1/09/2018,33310,M,23,Group D,FT, , ,East,25/06/2013,Salary, ,<30,433,14.43,0
+1/09/2018,33312,F,52,Group C,FT,27/09/2014, ,East,4/10/2011,Salary,Voluntary,50+,1089,36.3,0
+1/09/2018,40390,F,56,Group G,PT, , ,North,20/06/2014,Hourly, ,50+,73,2.43,0
+1/09/2018,40404,F,19,Group A,PT, , ,North,26/06/2014,Hourly, ,<30,67,2.23,0
+1/09/2018,40406,M,49,Group B,FT, , ,North,9/04/2005,Hourly, ,30-49,3432,114.4,0
+1/09/2018,40416,F,20,Group C,FT, , ,North,21/05/2013,Hourly, ,<30,468,15.6,0
+1/09/2018,40418,M,21,Group D,PT, , ,North,8/07/2014,Hourly, ,<30,55,1.83,0
+1/09/2018,40428,M,29,Group D,PT, , ,North,27/08/2014,Hourly, ,<30,5,0.17,0
+1/09/2018,40434,M,56,Group E,FT, , ,North,16/08/2012,Hourly, ,50+,746,24.87,0
+1/09/2018,40442,M,19,Group G,PT, , ,North,5/03/2014,Hourly, ,<30,180,6,0
+1/09/2018,40452,M,47,Group A,PT, , ,North,16/10/2013,Hourly, ,30-49,320,10.67,0
+1/09/2018,40456,M,58,Group E,PT, , ,North,10/06/2014,Hourly, ,50+,83,2.77,0
+1/09/2018,40458,F,24,Group B,PT, , ,North,18/07/2014,Hourly, ,<30,45,1.5,0
+1/09/2018,40462,F,20,Group A,PT, , ,North,19/09/2013,Hourly, ,<30,347,11.57,0
+1/09/2018,40466,F,19,Group B,PT, , ,North,6/06/2014,Hourly, ,<30,87,2.9,0
+1/09/2018,40472,F,57,Group E,FT, , ,North,18/05/2005,Hourly, ,50+,3393,113.1,0
+1/09/2018,40478,M,22,Group C,PT, , ,North,22/06/2011,Hourly, ,<30,1167,38.9,0
+1/09/2018,40480,F,21,Group F,PT, ,Yes,North,12/09/2014,Hourly, ,<30,0,0,0
+1/09/2018,40484,M,21,Group F,PT, , ,North,13/12/2011,Hourly, ,<30,993,33.1,0
+1/09/2018,40486,M,28,Group A,PT, , ,North,2/11/2011,Hourly, ,<30,1034,34.47,0
+1/09/2018,40488,M,37,Group D,FT, , ,North,23/05/2011,Hourly, ,30-49,1197,39.9,0
+1/09/2018,40502,M,22,Group A,PT, , ,North,18/07/2014,Hourly, ,<30,45,1.5,0
+1/09/2018,40506,M,21,Group G,PT, , ,North,27/07/2012,Hourly, ,<30,766,25.53,0
+1/09/2018,40514,F,20,Group F,PT, , ,North,21/08/2014,Hourly, ,<30,11,0.37,0
+1/09/2018,40530,M,20,Group A,PT, , ,North,26/03/2014,Hourly, ,<30,159,5.3,0
+1/09/2018,40542,M,47,Group D,PT, , ,North,21/06/2005,Hourly, ,30-49,3359,111.97,0
+1/09/2018,40548,F,31,Group E,FT, , ,North,2/05/2007,Hourly, ,30-49,2679,89.3,0
+1/09/2018,40554,M,68,Group C,PT, , ,North,23/02/2007,Hourly, ,50+,2747,91.57,0
+1/09/2018,40684,M,21,Group F,PT, ,Yes,North,18/09/2014,Hourly, ,<30,0,0,0
+1/09/2018,40702,F,21,Group D,PT, ,Yes,North,10/09/2014,Hourly, ,<30,0,0,0
+1/09/2018,40754,F,24,Group D,PT, , ,North,7/08/2008,Hourly, ,<30,2216,73.87,0
+1/09/2018,41030,F,20,Group F,PT, , ,Midwest,16/05/2013,Hourly, ,<30,473,15.77,0
+1/09/2018,41038,M,44,Group F,PT, , ,Midwest,16/03/2012,Hourly, ,30-49,899,29.97,0
+1/09/2018,41042,F,37,Group D,PT, , ,Midwest,9/08/2013,Hourly, ,30-49,388,12.93,0
+1/09/2018,41046,M,27,Group G,FT, , ,Midwest,17/04/2014,Hourly, ,<30,137,4.57,0
+1/09/2018,41050,M,29,Group F,PT, , ,Midwest,29/12/2007,Hourly, ,<30,2438,81.27,0
+1/09/2018,41058,F,24,Group C,PT, , ,Midwest,26/10/2011,Hourly, ,<30,1041,34.7,0
+1/09/2018,41082,F,23,Group F,PT, , ,Midwest,18/02/2010,Hourly, ,<30,1656,55.2,0
+1/09/2018,41090,M,19,Group G,PT, , ,Midwest,25/04/2014,Hourly, ,<30,129,4.3,0
+1/09/2018,41288,F,22,Group B,FT, , ,Midwest,2/03/2012,Hourly, ,<30,913,30.43,0
+1/09/2018,41290,M,21,Group G,PT, , ,Midwest,12/02/2014,Hourly, ,<30,201,6.7,0
+1/09/2018,41292,F,22,Group D,PT, , ,Midwest,3/11/2012,Hourly, ,<30,667,22.23,0
+1/09/2018,41314,F,21,Group F,PT, , ,Midwest,6/06/2014,Hourly, ,<30,87,2.9,0
+1/09/2018,41316,M,42,Group F,PT, , ,Midwest,25/06/2014,Hourly, ,30-49,68,2.27,0
+1/09/2018,41332,M,26,Group G,FT, , ,Midwest,20/10/2009,Hourly, ,<30,1777,59.23,0
+1/09/2018,41344,M,66,Group F,PT, , ,Midwest,30/08/2005,Hourly, ,50+,3289,109.63,0
+1/09/2018,41372,F,31,Group G,FT, , ,Midwest,26/07/2013,Hourly, ,30-49,402,13.4,0
+1/09/2018,41388,F,22,Group B,FT, , ,South,26/06/2013,Hourly, ,<30,432,14.4,0
+1/09/2018,41390,M,40,Group B,PT, , ,South,16/08/2014,Hourly, ,30-49,16,0.53,0
+1/09/2018,41394,M,42,Group G,PT, , ,South,14/06/2014,Hourly, ,30-49,79,2.63,0
+1/09/2018,41396,F,19,Group C,PT, , ,South,27/04/2013,Hourly, ,<30,492,16.4,0
+1/09/2018,41416,M,21,Group C,PT, , ,South,28/08/2013,Hourly, ,<30,369,12.3,0
+1/09/2018,41420,M,20,Group C,PT, , ,South,18/04/2013,Hourly, ,<30,501,16.7,0
+1/09/2018,41510,M,25,Group A,PT, , ,South,26/10/2011,Hourly, ,<30,1041,34.7,0
+1/09/2018,41512,F,21,Group G,PT, , ,South,25/08/2012,Hourly, ,<30,737,24.57,0
+1/09/2018,41518,M,52,Group C,PT, , ,South,12/07/2013,Hourly, ,50+,416,13.87,0
+1/09/2018,41526,M,51,Group B,PT, , ,South,7/05/2014,Hourly, ,50+,117,3.9,0
+1/09/2018,41544,M,47,Group F,PT, , ,South,19/03/2014,Hourly, ,30-49,166,5.53,0
+1/09/2018,41692,M,48,Group D,FT, , ,South,22/11/2012,Hourly, ,30-49,648,21.6,0
+1/09/2018,41704,M,20,Group A,PT, ,Yes,South,17/09/2014,Hourly, ,<30,0,0,0
+1/09/2018,41708,M,25,Group E,PT, , ,South,22/08/2014,Hourly, ,<30,10,0.33,0
+1/09/2018,41712,F,25,Group B,PT, , ,South,21/08/2014,Hourly, ,<30,11,0.37,0
+1/09/2018,41714,M,28,Group G,PT, , ,South,9/04/2014,Hourly, ,<30,145,4.83,0
+1/09/2018,42106,M,59,Group B,PT, , ,South,23/08/2012,Hourly, ,50+,739,24.63,0
+1/09/2018,42114,F,19,Group A,PT, ,Yes,South,26/09/2014,Hourly, ,<30,0,0,0
+1/09/2018,42118,F,19,Group B,PT, , ,South,13/06/2014,Hourly, ,<30,80,2.67,0
+1/09/2018,42236,M,65,Group G,FT, , ,South,15/06/2011,Hourly, ,50+,1174,39.13,0
+1/09/2018,42238,F,21,Group B,PT, , ,South,20/10/2012,Hourly, ,<30,681,22.7,0
+1/09/2018,42240,M,23,Group A,PT, , ,South,13/08/2014,Hourly, ,<30,19,0.63,0
+1/09/2018,42328,M,49,Group B,PT, , ,South,1/06/2014,Hourly, ,30-49,92,3.07,0
+1/09/2018,42460,M,67,Group D,PT, , ,South,4/06/2014,Hourly, ,50+,89,2.97,0
+1/09/2018,42462,F,28,Group E,FT, , ,South,24/05/2014,Hourly, ,<30,100,3.33,0
+1/09/2018,42464,F,47,Group G,FT, , ,South,24/05/2014,Hourly, ,30-49,100,3.33,0
+1/09/2018,42466,F,44,Group G,FT, , ,South,19/06/2014,Hourly, ,30-49,74,2.47,0
+1/09/2018,42468,M,23,Group G,PT, , ,South,24/05/2014,Hourly, ,<30,100,3.33,0
+1/09/2018,42472,M,22,Group G,PT, , ,South,24/05/2014,Hourly, ,<30,100,3.33,0
+1/09/2018,42474,M,41,Group A,PT, , ,South,19/06/2014,Hourly, ,30-49,74,2.47,0
+1/09/2018,42476,M,27,Group C,PT, , ,South,24/05/2014,Hourly, ,<30,100,3.33,0
+1/09/2018,42478,M,46,Group B,PT, , ,South,13/06/2014,Hourly, ,30-49,80,2.67,0
+1/09/2018,42480,M,19,Group C,PT, , ,South,1/06/2014,Hourly, ,<30,92,3.07,0
+1/09/2018,42482,M,28,Group B,PT, , ,South,1/06/2014,Hourly, ,<30,92,3.07,0
+1/09/2018,42484,F,24,Group D,PT, , ,South,13/06/2014,Hourly, ,<30,80,2.67,0
+1/09/2018,42490,M,24,Group F,PT, , ,South,19/06/2014,Hourly, ,<30,74,2.47,0
+1/09/2018,42492,M,44,Group G,PT, , ,South,6/06/2014,Hourly, ,30-49,87,2.9,0
+1/09/2018,42494,M,40,Group F,PT, , ,South,29/05/2014,Hourly, ,30-49,95,3.17,0
+1/09/2018,42496,M,27,Group D,FT, , ,South,4/06/2014,Hourly, ,<30,89,2.97,0
+1/09/2018,42498,M,24,Group F,PT, , ,South,4/06/2014,Hourly, ,<30,89,2.97,0
+1/09/2018,42500,M,26,Group D,PT, , ,South,4/06/2014,Hourly, ,<30,89,2.97,0
+1/09/2018,42502,M,26,Group B,PT, , ,South,4/06/2014,Hourly, ,<30,89,2.97,0
+1/09/2018,42506,F,22,Group F,PT, , ,South,4/06/2014,Hourly, ,<30,89,2.97,0
+1/09/2018,42680,M,63,Group D,PT, , ,South,20/06/2013,Hourly, ,50+,438,14.6,0
+1/09/2018,42684,M,25,Group A,FT, , ,South,14/02/2006,Hourly, ,<30,3121,104.03,0
+1/09/2018,42708,M,62,Group E,PT, , ,South,27/10/2011,Hourly, ,50+,1040,34.67,0
+1/09/2018,42762,M,22,Group B,PT, ,Yes,South,26/09/2014,Hourly, ,<30,0,0,0
+1/09/2018,42772,M,53,Group G,PT, , ,South,28/05/2014,Hourly, ,50+,96,3.2,0
+1/09/2018,42804,F,24,Group F,PT, , ,South,7/09/2012,Hourly, ,<30,724,24.13,0
+1/09/2018,42872,M,47,Group C,PT, ,Yes,South,18/09/2014,Hourly, ,30-49,0,0,0
+1/09/2018,42892,M,59,Group G,FT, , ,South,19/06/2007,Hourly, ,50+,2631,87.7,0
+1/09/2018,42896,M,20,Group B,PT, , ,South,14/08/2013,Hourly, ,<30,383,12.77,0
+1/09/2018,42924,F,24,Group E,PT, , ,South,23/06/2011,Hourly, ,<30,1166,38.87,0
+1/09/2018,42934,F,22,Group E,PT, , ,South,10/07/2014,Hourly, ,<30,53,1.77,0
+1/09/2018,43056,M,32,Group A,PT, , ,South,1/05/2014,Hourly, ,30-49,123,4.1,0
+1/09/2018,43058,M,37,Group C,PT, , ,South,16/08/2013,Hourly, ,30-49,381,12.7,0
+1/09/2018,43128,M,23,Group B,PT, , ,South,25/02/2012,Hourly, ,<30,919,30.63,0
+1/09/2018,43130,M,22,Group A,PT, , ,South,28/02/2014,Hourly, ,<30,185,6.17,0
+1/09/2018,43134,F,20,Group E,PT, , ,South,31/07/2013,Hourly, ,<30,397,13.23,0
+1/09/2018,43142,F,23,Group A,PT, , ,South,3/07/2014,Hourly, ,<30,60,2,0
+1/09/2018,43144,M,25,Group E,PT, , ,South,20/06/2014,Hourly, ,<30,73,2.43,0
+1/09/2018,43154,M,19,Group G,PT, ,Yes,South,19/09/2014,Hourly, ,<30,0,0,0
+1/09/2018,43160,M,37,Group F,PT, , ,South,20/01/2014,Hourly, ,30-49,224,7.47,0
+1/09/2018,43308,M,18,Group C,PT, , ,South,31/10/2012,Hourly, ,<30,670,22.33,0
+1/09/2018,43312,M,21,Group F,PT, , ,South,14/03/2014,Hourly, ,<30,171,5.7,0
+1/09/2018,43336,M,22,Group E,PT, , ,South,31/03/2012,Hourly, ,<30,884,29.47,0
+1/09/2018,43340,F,23,Group G,FT, , ,South,20/08/2013,Hourly, ,<30,377,12.57,0
+1/09/2018,43342,F,23,Group F,FT, , ,South,31/03/2012,Hourly, ,<30,884,29.47,0
+1/09/2018,43350,M,69,Group E,PT, , ,South,6/11/2013,Hourly, ,50+,299,9.97,0
+1/09/2018,43356,F,23,Group B,FT, , ,South,2/09/2009,Hourly, ,<30,1825,60.83,0
+1/09/2018,43376,F,48,Group A,PT, , ,North,16/10/2012,Hourly, ,30-49,685,22.83,0
+1/09/2018,43380,M,27,Group C,PT, , ,North,5/07/2012,Hourly, ,<30,788,26.27,0
+1/09/2018,43384,F,22,Group F,PT, , ,North,11/06/2014,Hourly, ,<30,82,2.73,0
+1/09/2018,43388,F,21,Group D,PT, , ,North,7/06/2014,Hourly, ,<30,86,2.87,0
+1/09/2018,43396,F,23,Group C,PT, , ,North,23/05/2014,Hourly, ,<30,101,3.37,0
+1/09/2018,43398,M,23,Group C,PT, , ,North,22/05/2014,Hourly, ,<30,102,3.4,0
+1/09/2018,43408,F,21,Group A,PT, , ,North,13/08/2014,Hourly, ,<30,19,0.63,0
+1/09/2018,43414,F,19,Group E,FT, , ,North,26/09/2013,Hourly, ,<30,340,11.33,0
+1/09/2018,43416,M,20,Group D,PT, , ,North,27/06/2014,Hourly, ,<30,66,2.2,0
+1/09/2018,43418,M,22,Group B,PT, , ,North,1/08/2014,Hourly, ,<30,31,1.03,0
+1/09/2018,43422,M,23,Group B,PT, , ,North,10/07/2014,Hourly, ,<30,53,1.77,0
+1/09/2018,43424,M,34,Group E,PT, , ,North,16/05/2014,Hourly, ,30-49,108,3.6,0
+1/09/2018,43428,F,19,Group D,PT, , ,North,8/08/2013,Hourly, ,<30,389,12.97,0
+1/09/2018,43430,F,49,Group A,FT, , ,North,16/09/2011,Hourly, ,30-49,1081,36.03,0
+1/09/2018,43432,F,36,Group C,FT, , ,North,10/03/2011,Hourly, ,30-49,1271,42.37,0
+1/09/2018,43438,M,60,Group G,FT, , ,North,19/07/2012,Hourly, ,50+,774,25.8,0
+1/09/2018,43440,F,26,Group G,FT, , ,North,31/05/2007,Hourly, ,<30,2650,88.33,0
+1/09/2018,43496,M,45,Group C,PT, , ,North,28/08/2014,Hourly, ,30-49,4,0.13,0
+1/09/2018,43526,M,58,Group C,FT, , ,North,26/04/2008,Hourly, ,50+,2319,77.3,0
+1/09/2018,43538,M,26,Group C,PT, , ,North,12/06/2008,Hourly, ,<30,2272,75.73,0
+1/09/2018,43570,F,20,Group A,PT, , ,North,6/11/2013,Hourly, ,<30,299,9.97,0
+1/09/2018,43584,M,21,Group G,PT, , ,North,2/07/2014,Hourly, ,<30,61,2.03,0
+1/09/2018,43590,M,26,Group D,PT, , ,North,9/07/2014,Hourly, ,<30,54,1.8,0
+1/09/2018,43606,F,24,Group B,PT, , ,North,31/08/2011,Hourly, ,<30,1097,36.57,0
+1/09/2018,43610,M,25,Group C,PT, , ,North,20/03/2007,Hourly, ,<30,2722,90.73,0
+1/09/2018,43612,M,55,Group G,PT, , ,North,27/02/2007,Hourly, ,50+,2743,91.43,0
+1/09/2018,43614,M,61,Group F,PT, , ,North,26/03/2014,Hourly, ,50+,159,5.3,0
+1/09/2018,43626,M,19,Group F,PT, , ,North,29/11/2013,Hourly, ,<30,276,9.2,0
+1/09/2018,43662,M,43,Group D,PT, , ,North,19/08/2014,Hourly, ,30-49,13,0.43,0
+1/09/2018,43672,F,23,Group D,FT, , ,North,3/11/2006,Hourly, ,<30,2859,95.3,0
+1/09/2018,43678,M,60,Group A,FT, , ,North,9/04/2007,Hourly, ,50+,2702,90.07,0
+1/09/2018,43682,M,64,Group F,PT, , ,North,13/11/2013,Hourly, ,50+,292,9.73,0
+1/09/2018,43690,F,24,Group E,PT, , ,North,31/07/2014,Hourly, ,<30,32,1.07,0
+1/09/2018,43708,M,22,Group D,PT, , ,North,15/05/2014,Hourly, ,<30,109,3.63,0
+1/09/2018,43712,F,23,Group A,PT, , ,North,17/07/2014,Hourly, ,<30,46,1.53,0
+1/09/2018,43728,F,23,Group D,PT, , ,North,3/10/2011,Hourly, ,<30,1064,35.47,0
+1/09/2018,43732,F,20,Group G,PT, , ,North,27/08/2014,Hourly, ,<30,5,0.17,0
+1/09/2018,43738,M,23,Group D,PT, , ,North,22/06/2010,Hourly, ,<30,1532,51.07,0
+1/09/2018,43764,F,20,Group A,PT, , ,North,29/05/2014,Hourly, ,<30,95,3.17,0
+1/09/2018,43784,F,21,Group B,PT, , ,Midwest,15/08/2013,Hourly, ,<30,382,12.73,0
+1/09/2018,43788,F,22,Group E,PT, , ,Midwest,23/08/2014,Hourly, ,<30,9,0.3,0
+1/09/2018,43790,F,65,Group D,FT, , ,Midwest,1/08/2009,Hourly, ,50+,1857,61.9,0
+1/09/2018,43796,F,26,Group A,FT, , ,Midwest,19/03/2014,Hourly, ,<30,166,5.53,0
+1/09/2018,43802,M,58,Group C,PT, , ,Midwest,19/03/2014,Hourly, ,50+,166,5.53,0
+1/09/2018,43804,M,33,Group E,FT, , ,Midwest,19/03/2014,Hourly, ,30-49,166,5.53,0
+1/09/2018,43806,M,21,Group C,PT, , ,Midwest,19/03/2014,Hourly, ,<30,166,5.53,0
+1/09/2018,43808,M,62,Group D,PT, , ,Midwest,25/03/2014,Hourly, ,50+,160,5.33,0
+1/09/2018,43918,M,50,Group A,PT, , ,Midwest,9/03/2010,Hourly, ,50+,1637,54.57,0
+1/09/2018,43926,F,19,Group B,PT, , ,Midwest,4/10/2011,Hourly, ,<30,1063,35.43,0
+1/09/2018,43990,M,20,Group A,PT, , ,Midwest,19/09/2013,Hourly, ,<30,347,11.57,0
+1/09/2018,44032,F,23,Group A,PT, , ,Midwest,28/10/2013,Hourly, ,<30,308,10.27,0
+1/09/2018,44038,M,47,Group G,PT, , ,Midwest,12/10/2013,Hourly, ,30-49,324,10.8,0
+1/09/2018,44044,M,63,Group A,PT, , ,Midwest,13/02/2007,Hourly, ,50+,2757,91.9,0
+1/09/2018,44046,F,22,Group D,PT, , ,Midwest,26/03/2014,Hourly, ,<30,159,5.3,0
+1/09/2018,44060,M,57,Group C,PT, , ,Midwest,2/08/2014,Hourly, ,50+,30,1,0
+1/09/2018,44062,M,32,Group C,FT, , ,Midwest,12/08/2006,Hourly, ,30-49,2942,98.07,0
+1/09/2018,44066,M,21,Group C,FT, , ,Midwest,26/03/2013,Hourly, ,<30,524,17.47,0
+1/09/2018,44088,M,23,Group F,PT, ,Yes,Midwest,16/09/2014,Hourly, ,<30,0,0,0
+1/09/2018,44100,M,47,Group G,PT, , ,Midwest,15/08/2014,Hourly, ,30-49,17,0.57,0
+1/09/2018,44110,M,27,Group D,PT, , ,Midwest,24/06/2009,Hourly, ,<30,1895,63.17,0
+1/09/2018,44114,M,20,Group G,PT, , ,Midwest,11/07/2013,Hourly, ,<30,417,13.9,0
+1/09/2018,49036,M,55,Group G,FT, , ,Central,13/10/2005,Hourly, ,50+,3245,108.17,0
+1/09/2018,49040,F,48,Group F,PT, , ,South,2/06/2010,Hourly, ,30-49,1552,51.73,0
+1/09/2018,49044,M,24,Group A,PT, , ,Northwest,30/07/2014,Hourly, ,<30,33,1.1,0
+1/09/2018,49142,M,34,Group A,PT, , ,Midwest,22/03/2008,Hourly, ,30-49,2354,78.47,0
+1/09/2018,49164,F,53,Group A,FT, , ,South,17/04/2008,Hourly, ,50+,2328,77.6,0
+1/09/2018,49188,F,51,Group B,FT, , ,Midwest,10/03/1981,Hourly, ,50+,12228,407.6,0
+1/09/2018,49216,F,41,Group D,FT, , ,Central,15/05/2013,Hourly, ,30-49,474,15.8,0
+1/09/2018,49232,M,51,Group E,FT, , ,Northwest,5/07/2012,Hourly, ,50+,788,26.27,0
+1/09/2018,49284,F,19,Group A,PT, , ,Northwest,2/11/2012,Hourly, ,<30,668,22.27,0
+1/09/2018,49296,M,40,Group F,PT, , ,Northwest,6/12/2011,Hourly, ,30-49,1000,33.33,0
+1/09/2018,49300,F,22,Group E,PT, ,Yes,Northwest,24/09/2014,Hourly, ,<30,0,0,0
+1/09/2018,49302,F,22,Group A,PT, , ,North,13/12/2007,Hourly, ,<30,2454,81.8,0
+1/09/2018,49356,M,17,Group B,PT, , ,West,30/05/2014,Hourly, ,<30,94,3.13,0
+1/09/2018,49368,M,24,Group E,PT, , ,West,14/11/2012,Hourly, ,<30,656,21.87,0
+1/09/2018,49376,F,31,Group G,FT, , ,West,9/01/2013,Hourly, ,30-49,600,20,0
+1/09/2018,49416,M,32,Group E,PT, , ,Central,2/11/2011,Hourly, ,30-49,1034,34.47,0
+1/09/2018,49420,M,20,Group F,PT, , ,Northwest,8/08/2014,Hourly, ,<30,24,0.8,0
+1/09/2018,49438,M,22,Group F,PT, , ,Northwest,18/06/2014,Hourly, ,<30,75,2.5,0
+1/09/2018,49444,M,28,Group F,PT, , ,South,21/09/2012,Hourly, ,<30,710,23.67,0
+1/09/2018,49550,M,49,Group G,FT, , ,West,16/03/2008,Hourly, ,30-49,2360,78.67,0
+1/09/2018,49576,F,58,Group E,PT, , ,West,1/11/2012,Hourly, ,50+,669,22.3,0
+1/09/2018,49578,F,19,Group A,PT, , ,West,10/07/2014,Hourly, ,<30,53,1.77,0
+1/09/2018,49580,M,44,Group B,PT, , ,West,31/07/2014,Hourly, ,30-49,32,1.07,0
+1/09/2018,49602,F,20,Group D,PT, ,Yes,West,26/09/2014,Hourly, ,<30,0,0,0
+1/09/2018,49666,F,34,Group A,FT, , ,Midwest,26/01/2007,Hourly, ,30-49,2775,92.5,0
+1/09/2018,49716,F,62,Group E,FT, , ,Central,27/07/2007,Hourly, ,50+,2593,86.43,0
+1/09/2018,49724,F,20,Group F,PT, , ,Northwest,10/06/2014,Hourly, ,<30,83,2.77,0
+1/09/2018,49746,F,21,Group F,PT, , ,Northwest,29/08/2014,Hourly, ,<30,3,0.1,0
+1/09/2018,49748,F,52,Group E,FT, , ,Northwest,21/11/2001,Hourly, ,50+,4667,155.57,0
+1/09/2018,49776,F,29,Group A,FT, , ,North,12/07/2006,Hourly, ,<30,2973,99.1,0
+1/09/2018,49794,F,43,Group G,FT, , ,South,18/01/1989,Hourly, ,30-49,9357,311.9,0
+1/09/2018,49832,F,30,Group F,FT, , ,West,14/07/2004,Hourly, ,30-49,3701,123.37,0
+1/09/2018,49848,M,47,Group B,FT, , ,West,15/03/2012,Hourly, ,30-49,900,30,0
+1/09/2018,49908,F,23,Group F,PT, , ,Central,6/12/2013,Hourly, ,<30,269,8.97,0
+1/09/2018,49932,F,23,Group E,PT, , ,Central,18/10/2013,Hourly, ,<30,318,10.6,0
+1/09/2018,49966,F,19,Group G,PT, , ,Northwest,11/03/2014,Hourly, ,<30,174,5.8,0
+1/09/2018,49976,F,21,Group B,PT, , ,West,9/08/2012,Hourly, ,<30,753,25.1,0
+1/09/2018,49984,F,21,Group D,PT, , ,Central,4/06/2014,Hourly, ,<30,89,2.97,0
+1/09/2018,50272,M,22,Group F,FT, , ,North,20/03/2012,Hourly, ,<30,895,29.83,0
+1/09/2018,50278,F,57,Group F,FT, , ,North,13/10/2000,Hourly, ,50+,5071,169.03,0
+1/09/2018,50282,F,55,Group D,PT, , ,South,15/10/2002,Hourly, ,50+,4339,144.63,0
+1/09/2018,50294,F,21,Group E,PT, , ,Central,19/11/2013,Hourly, ,<30,286,9.53,0
+1/09/2018,50296,F,24,Group A,PT, ,Yes,Central,3/09/2014,Hourly, ,<30,0,0,0
+1/09/2018,50304,F,32,Group F,FT, , ,Central,23/07/2009,Hourly, ,30-49,1866,62.2,0
+1/09/2018,50306,F,44,Group C,FT, , ,Central,8/11/2005,Hourly, ,30-49,3219,107.3,0
+1/09/2018,50312,F,46,Group D,FT, , ,Northwest,31/08/2012,Hourly, ,30-49,731,24.37,0
+1/09/2018,50318,F,43,Group A,FT, , ,Midwest,13/09/2005,Hourly, ,30-49,3275,109.17,0
+1/09/2018,50322,F,30,Group G,FT, , ,West,1/12/2007,Hourly, ,30-49,2466,82.2,0
+1/09/2018,50332,M,23,Group B,PT, , ,North,18/12/2012,Hourly, ,<30,622,20.73,0
+1/09/2018,50336,F,30,Group A,FT, , ,West,15/09/2005,Hourly, ,30-49,3273,109.1,0
+1/09/2018,50340,F,27,Group F,FT, , ,Northwest,24/06/2012,Hourly, ,<30,799,26.63,0
+1/09/2018,50342,F,33,Group C,FT, , ,Central,1/05/2008,Hourly, ,30-49,2314,77.13,0
+1/09/2018,50370,F,28,Group C,FT, , ,West,29/05/2014,Hourly, ,<30,95,3.17,0
+1/09/2018,50378,F,36,Group A,FT, , ,North,7/09/2012,Hourly, ,30-49,724,24.13,0
+1/09/2018,50384,F,23,Group A,PT, , ,Midwest,13/09/2011,Hourly, ,<30,1084,36.13,0
+1/09/2018,50386,F,23,Group A,FT, , ,North,11/09/2010,Hourly, ,<30,1451,48.37,0
+1/09/2018,50396,F,22,Group A,FT, , ,Midwest,11/10/2012,Hourly, ,<30,690,23,0
+1/09/2018,50406,F,22,Group G,PT, ,Yes,Central,24/09/2014,Hourly, ,<30,0,0,0
+1/09/2018,50418,F,23,Group G,PT, , ,Northwest,24/06/2014,Hourly, ,<30,69,2.3,0
+1/09/2018,50426,F,43,Group E,FT, , ,Northwest,30/06/2004,Hourly, ,30-49,3715,123.83,0
+1/09/2018,50438,F,59,Group G,FT, , ,West,29/03/2005,Hourly, ,50+,3443,114.77,0
+1/09/2018,50452,F,21,Group C,PT, , ,West,5/06/2014,Hourly, ,<30,88,2.93,0
+1/09/2018,50466,M,21,Group F,PT, ,Yes,Northwest,24/09/2014,Hourly, ,<30,0,0,0
+1/09/2018,50468,M,30,Group D,PT, , ,West,25/07/2014,Hourly, ,30-49,38,1.27,0
+1/09/2018,50470,F,58,Group D,FT, , ,Midwest,21/11/1974,Hourly, ,50+,14529,484.3,0
+1/09/2018,50472,F,24,Group B,PT, , ,West,13/09/2011,Hourly, ,<30,1084,36.13,0
+1/09/2018,50798,M,23,Group B,PT, ,Yes,Central,3/09/2014,Hourly, ,<30,0,0,0
+1/09/2018,50812,M,22,Group B,PT, , ,Northwest,23/02/2013,Hourly, ,<30,555,18.5,0
+1/09/2018,50814,M,61,Group A,PT, , ,Northwest,29/08/2014,Hourly, ,50+,3,0.1,0
+1/09/2018,50838,M,25,Group G,FT, , ,West,23/04/2010,Hourly, ,<30,1592,53.07,0
+1/09/2018,50850,M,19,Group F,PT, , ,Northwest,26/04/2014,Hourly, ,<30,128,4.27,0
+1/09/2018,50854,M,20,Group F,PT, , ,Northwest,18/07/2013,Hourly, ,<30,410,13.67,0
+1/09/2018,50858,M,53,Group F,PT, , ,Central,19/07/2014,Hourly, ,50+,44,1.47,0
+1/09/2018,50860,M,33,Group E,PT, , ,Central,30/04/2014,Hourly, ,30-49,124,4.13,0
+1/09/2018,50884,F,57,Group E,FT, , ,North,15/04/2005,Hourly, ,50+,3426,114.2,0
+1/09/2018,50984,M,20,Group B,PT, , ,West,1/08/2014,Hourly, ,<30,31,1.03,0
+1/09/2018,51010,M,35,Group B,FT, , ,West,5/08/2009,Hourly, ,30-49,1853,61.77,0
+1/09/2018,51134,M,24,Group B,PT, , ,Central,7/08/2013,Hourly, ,<30,390,13,0
+1/09/2018,51146,F,36,Group D,FT, , ,Central,24/06/1995,Hourly, ,30-49,7009,233.63,0
+1/09/2018,51166,F,24,Group E,PT, , ,Central,10/05/2013,Hourly, ,<30,479,15.97,0
+1/09/2018,51184,F,29,Group C,PT, , ,Central,5/03/2014,Hourly, ,<30,180,6,0
+1/09/2018,51230,M,28,Group E,PT, , ,Central,3/06/2014,Hourly, ,<30,90,3,0
+1/09/2018,51236,F,71,Group B,FT, , ,Central,15/04/2004,Hourly, ,50+,3791,126.37,0
+1/09/2018,51296,M,22,Group C,PT, , ,Central,2/07/2014,Hourly, ,<30,61,2.03,0
+1/09/2018,51312,M,28,Group D,FT, , ,Northwest,22/09/2004,Hourly, ,<30,3631,121.03,0
+1/09/2018,51314,F,20,Group B,PT, ,Yes,Northwest,3/09/2014,Hourly, ,<30,0,0,0
+1/09/2018,51316,F,68,Group C,FT, , ,Northwest,30/10/2007,Hourly, ,50+,2498,83.27,0
+1/09/2018,51324,M,31,Group B,FT, , ,Northwest,18/03/2004,Hourly, ,30-49,3819,127.3,0
+1/09/2018,51338,M,46,Group A,FT, , ,Northwest,2/11/2012,Hourly, ,30-49,668,22.27,0
+1/09/2018,51340,F,23,Group G,PT, , ,Northwest,6/06/2013,Hourly, ,<30,452,15.07,0
+1/09/2018,51430,F,21,Group A,PT, , ,Northwest,14/08/2014,Hourly, ,<30,18,0.6,0
+1/09/2018,51432,F,20,Group D,PT, , ,Northwest,26/08/2014,Hourly, ,<30,6,0.2,0
+1/09/2018,51434,M,26,Group A,PT, , ,Northwest,20/08/2014,Hourly, ,<30,12,0.4,0
+1/09/2018,51458,M,19,Group C,PT, , ,Northwest,9/05/2014,Hourly, ,<30,115,3.83,0
+1/09/2018,51468,M,42,Group C,PT, , ,Northwest,14/05/2014,Hourly, ,30-49,110,3.67,0
+1/09/2018,51486,M,67,Group G,PT, , ,Northwest,8/08/2014,Hourly, ,50+,24,0.8,0
+1/09/2018,51548,M,50,Group B,FT, , ,Central,14/12/2008,Hourly, ,50+,2087,69.57,0
+1/09/2018,51598,F,20,Group D,PT, , ,Central,6/06/2014,Hourly, ,<30,87,2.9,0
+1/09/2018,51618,M,20,Group F,PT, , ,Central,7/05/2014,Hourly, ,<30,117,3.9,0
+1/09/2018,51622,F,41,Group D,FT, , ,Central,23/06/1998,Hourly, ,30-49,5914,197.13,0
+1/09/2018,51658,F,24,Group E,PT, , ,Central,8/07/2014,Hourly, ,<30,55,1.83,0
+1/09/2018,51690,F,21,Group A,PT, , ,West,15/11/2013,Hourly, ,<30,290,9.67,0
+1/09/2018,51776,M,26,Group A,PT, , ,West,26/06/2013,Hourly, ,<30,432,14.4,0
+1/09/2018,51812,M,60,Group E,PT, , ,West,15/11/2013,Hourly, ,50+,290,9.67,0
+1/09/2018,51916,F,57,Group C,FT, , ,South,13/05/2003,Hourly, ,50+,4129,137.63,0
+1/09/2018,51922,M,51,Group G,FT, , ,South,12/08/2004,Hourly, ,50+,3672,122.4,0
+1/09/2018,51962,M,24,Group G,PT, ,Yes,Northwest,18/09/2014,Hourly, ,<30,0,0,0
+1/09/2018,51964,F,23,Group A,PT, , ,Northwest,4/06/2014,Hourly, ,<30,89,2.97,0
+1/09/2018,51974,F,25,Group E,PT, , ,Northwest,2/08/2011,Hourly, ,<30,1126,37.53,0
+1/09/2018,51980,F,21,Group G,PT, , ,Northwest,20/06/2014,Hourly, ,<30,73,2.43,0
+1/09/2018,51994,M,58,Group E,PT, , ,Northwest,10/11/2004,Hourly, ,50+,3582,119.4,0
+1/09/2018,52004,M,23,Group B,PT, , ,Northwest,25/01/2013,Hourly, ,<30,584,19.47,0
+1/09/2018,52010,M,35,Group F,PT, , ,Northwest,1/05/2003,Hourly, ,30-49,4141,138.03,0
+1/09/2018,52018,M,44,Group F,FT, , ,Northwest,10/01/2012,Hourly, ,30-49,965,32.17,0
+1/09/2018,52020,M,36,Group E,FT, , ,Northwest,6/02/2014,Hourly, ,30-49,207,6.9,0
+1/09/2018,52022,M,52,Group E,PT, ,Yes,Northwest,3/09/2014,Hourly, ,50+,0,0,0
+1/09/2018,52024,M,20,Group E,PT, , ,Northwest,15/08/2013,Hourly, ,<30,382,12.73,0
+1/09/2018,52238,M,44,Group E,PT, , ,Northwest,13/07/2005,Hourly, ,30-49,3337,111.23,0
+1/09/2018,52248,M,43,Group B,FT, , ,West,16/11/2011,Hourly, ,30-49,1020,34,0
+1/09/2018,52290,M,64,Group G,PT, , ,West,30/10/2007,Hourly, ,50+,2498,83.27,0
+1/09/2018,52292,M,35,Group D,FT, , ,West,7/06/2005,Hourly, ,30-49,3373,112.43,0
+1/09/2018,52304,M,22,Group D,PT, , ,Northwest,24/10/2013,Hourly, ,<30,312,10.4,0
+1/09/2018,52332,M,61,Group C,PT, , ,South,22/01/2002,Hourly, ,50+,4605,153.5,0
+1/09/2018,52372,M,23,Group D,PT, , ,Central,11/06/2014,Hourly, ,<30,82,2.73,0
+1/09/2018,52424,M,54,Group C,PT, , ,Central,23/05/2013,Hourly, ,50+,466,15.53,0
+1/09/2018,52446,M,24,Group B,PT, , ,Northwest,15/02/2013,Hourly, ,<30,563,18.77,0
+1/09/2018,52470,M,30,Group E,FT, ,Yes,Northwest,3/09/2014,Hourly, ,30-49,0,0,0
+1/09/2018,52502,M,54,Group C,PT, ,Yes,Central,9/09/2014,Hourly, ,50+,0,0,0
+1/09/2018,52536,M,43,Group D,FT, , ,Central,25/11/2003,Hourly, ,30-49,3933,131.1,0
+1/09/2018,52566,M,57,Group B,FT, , ,Central,23/09/2009,Hourly, ,50+,1804,60.13,0
+1/09/2018,52576,M,42,Group C,PT, , ,Central,19/10/2012,Hourly, ,30-49,682,22.73,0
+1/09/2018,52592,M,58,Group D,PT, ,Yes,Northwest,12/09/2014,Hourly, ,50+,0,0,0
+1/09/2018,52640,M,52,Group E,PT, ,Yes,West,16/09/2014,Hourly, ,50+,0,0,0
+1/09/2018,52652,M,47,Group A,FT, , ,Northwest,15/11/2013,Hourly, ,30-49,290,9.67,0
+1/09/2018,52668,M,22,Group C,PT, , ,Central,16/05/2014,Hourly, ,<30,108,3.6,0
+1/09/2018,52682,M,42,Group G,PT, , ,Central,4/04/2002,Hourly, ,30-49,4533,151.1,0
+1/09/2018,52698,M,51,Group E,PT, , ,West,7/05/2013,Hourly, ,50+,482,16.07,0
+1/09/2018,52714,M,56,Group C,PT, , ,Northwest,7/08/2014,Hourly, ,50+,25,0.83,0
+1/09/2018,52762,M,21,Group D,PT, , ,Central,16/07/2014,Hourly, ,<30,47,1.57,0
+1/09/2018,52764,M,31,Group F,FT, , ,Central,6/04/2010,Hourly, ,30-49,1609,53.63,0
+1/09/2018,52770,F,20,Group E,PT, , ,Northwest,12/07/2012,Hourly, ,<30,781,26.03,0
+1/09/2018,52782,F,19,Group E,PT, , ,East,3/01/2014,Hourly, ,<30,241,8.03,0
+1/09/2018,52824,F,38,Group E,FT, , ,Northwest,6/03/2014,Salary, ,30-49,179,5.97,0
+1/09/2018,52826,M,56,Group C,FT, , ,Northwest,1/03/2006,Hourly, ,50+,3106,103.53,0
+1/09/2018,52834,M,23,Group G,FT, , ,Northwest,25/01/2012,Salary, ,<30,950,31.67,0
+1/09/2018,52926,F,46,Group A,PT, , ,North,11/05/1988,Hourly, ,30-49,9609,320.3,0
+1/09/2018,52934,M,27,Group B,PT, , ,North,14/04/2007,Hourly, ,<30,2697,89.9,0
+1/09/2018,52954,M,52,Group G,FT, , ,North,28/02/1989,Salary, ,50+,9316,310.53,0
+1/09/2018,52968,M,37,Group F,FT, , ,North,28/03/2007,Salary, ,30-49,2714,90.47,0
+1/09/2018,52970,M,38,Group A,FT, , ,North,12/10/1996,Salary, ,30-49,6533,217.77,0
+1/09/2018,52980,M,70,Group A,PT, , ,North,1/06/2011,Hourly, ,50+,1188,39.6,0
+1/09/2018,52982,M,28,Group G,FT, , ,North,29/06/2006,Hourly, ,<30,2986,99.53,0
+1/09/2018,52984,M,46,Group A,FT, , ,North,10/11/1988,Hourly, ,30-49,9426,314.2,0
+1/09/2018,52986,F,20,Group C,PT, , ,North,13/07/2012,Hourly, ,<30,780,26,0
+1/09/2018,52988,F,22,Group B,FT, , ,North,26/07/2014,Salary, ,<30,37,1.23,0
+1/09/2018,53004,M,35,Group A,FT, , ,North,26/11/1998,Hourly, ,30-49,5758,191.93,0
+1/09/2018,53166,M,25,Group A,FT, , ,Midwest,25/03/2014,Salary, ,<30,160,5.33,0
+1/09/2018,53176,F,46,Group G,FT, , ,Midwest,25/11/1992,Hourly, ,30-49,7950,265,0
+1/09/2018,53184,F,38,Group D,FT, , ,Midwest,7/05/2014,Salary, ,30-49,117,3.9,0
+1/09/2018,53218,M,68,Group C,PT, , ,Midwest,15/05/2009,Hourly, ,50+,1935,64.5,0
+1/09/2018,53236,M,49,Group B,FT, , ,South,15/05/2014,Hourly, ,30-49,109,3.63,0
+1/09/2018,53238,F,19,Group D,PT, , ,South,8/05/2014,Hourly, ,<30,116,3.87,0
+1/09/2018,53250,F,45,Group E,FT, , ,South,4/05/2010,Salary, ,30-49,1581,52.7,0
+1/09/2018,53260,M,21,Group E,PT, , ,South,19/03/2014,Hourly, ,<30,166,5.53,0
+1/09/2018,53266,M,52,Group F,FT, , ,South,11/06/1991,Hourly, ,50+,8483,282.77,0
+1/09/2018,53290,F,22,Group G,PT, , ,South,15/08/2012,Hourly, ,<30,747,24.9,0
+1/09/2018,53292,F,41,Group E,FT, , ,South,4/06/1993,Salary, ,30-49,7759,258.63,0
+1/09/2018,53356,F,38,Group C,FT, , ,South,17/02/2014,Salary, ,30-49,196,6.53,0
+1/09/2018,53368,F,38,Group G,FT, , ,South,23/03/2012,Hourly, ,30-49,892,29.73,0
+1/09/2018,53370,M,46,Group D,FT, , ,South,20/05/1986,Salary, ,30-49,10331,344.37,0
+1/09/2018,53382,M,23,Group C,PT, , ,South,4/06/2014,Hourly, ,<30,89,2.97,0
+1/09/2018,53388,M,48,Group C,PT, , ,South,4/06/2014,Hourly, ,30-49,89,2.97,0
+1/09/2018,53394,M,53,Group E,FT, , ,South,14/06/2014,Salary, ,50+,79,2.63,0
+1/09/2018,53396,F,21,Group E,FT, , ,South,7/02/2014,Hourly, ,<30,206,6.87,0
+1/09/2018,53400,M,44,Group G,FT, ,Yes,South,30/09/2014,Salary, ,30-49,0,0,0
+1/09/2018,53402,F,34,Group B,FT, , ,South,20/08/2009,Salary, ,30-49,1838,61.27,0
+1/09/2018,53404,F,46,Group D,FT, , ,South,26/08/2014,Salary, ,30-49,6,0.2,0
+1/09/2018,53410,F,37,Group G,FT, , ,South,8/11/2013,Hourly, ,30-49,297,9.9,0
+1/09/2018,53412,M,49,Group F,FT, , ,South,25/04/2006,Salary, ,30-49,3051,101.7,0
+1/09/2018,53554,F,32,Group F,FT, , ,Central,28/03/2006,Salary, ,30-49,3079,102.63,0
+1/09/2018,53612,F,54,Group E,FT, , ,Central,2/10/2001,Salary, ,50+,4717,157.23,0
+1/09/2018,53616,F,22,Group C,PT, , ,Central,15/08/2013,Hourly, ,<30,382,12.73,0
+1/09/2018,53652,M,42,Group A,FT, , ,Central,21/12/1990,Salary, ,30-49,8655,288.5,0
+1/09/2018,53700,F,46,Group F,FT, , ,Central,28/05/2014,Salary, ,30-49,96,3.2,0
+1/09/2018,53726,F,27,Group F,PT, , ,Central,12/04/2012,Hourly, ,<30,872,29.07,0
+1/09/2018,53744,F,29,Group E,FT, , ,Central,10/12/2013,Salary, ,<30,265,8.83,0
+1/09/2018,53750,M,25,Group C,PT, , ,Central,30/04/2014,Hourly, ,<30,124,4.13,0
+1/09/2018,53752,M,41,Group A,PT, , ,Central,20/11/2007,Hourly, ,30-49,2477,82.57,0
+1/09/2018,53804,F,28,Group B,FT, , ,Central,31/10/2005,Hourly, ,<30,3227,107.57,0
+1/09/2018,53826,F,51,Group G,FT, , ,West,29/08/2006,Salary, ,50+,2925,97.5,0
+1/09/2018,53838,M,46,Group A,FT, , ,West,28/11/2013,Salary, ,30-49,277,9.23,0
+1/09/2018,53868,M,53,Group G,PT, , ,West,1/12/2013,Hourly, ,50+,274,9.13,0
+1/09/2018,53874,F,24,Group D,PT, , ,West,1/11/2013,Hourly, ,<30,304,10.13,0
+1/09/2018,53876,F,29,Group E,FT, , ,West,22/08/2013,Hourly, ,<30,375,12.5,0
+1/09/2018,53938,F,20,Group F,PT, , ,West,9/05/2013,Hourly, ,<30,480,16,0
+1/09/2018,53952,M,19,Group B,PT, , ,West,6/07/2013,Hourly, ,<30,422,14.07,0
+1/09/2018,53988,F,23,Group D,PT, , ,West,26/01/2012,Hourly, ,<30,949,31.63,0
+1/09/2018,53992,F,62,Group D,FT, , ,West,23/02/2007,Hourly, ,50+,2747,91.57,0
+1/09/2018,54034,F,37,Group G,FT, , ,West,10/06/2014,Salary, ,30-49,83,2.77,0
+1/09/2018,54044,M,43,Group B,FT, , ,West,27/06/2014,Salary, ,30-49,66,2.2,0
+1/09/2018,54048,M,45,Group A,FT, , ,West,27/06/2004,Salary, ,30-49,3718,123.93,0
+1/09/2018,54064,F,44,Group B,FT, , ,West,14/05/2011,Salary, ,30-49,1206,40.2,0
+1/09/2018,54066,M,51,Group C,FT, , ,West,19/08/2014,Salary, ,50+,13,0.43,0
+1/09/2018,54082,M,51,Group G,FT, , ,West,23/08/2007,Hourly, ,50+,2566,85.53,0
+1/09/2018,54100,M,55,Group B,FT, , ,West,15/12/2007,Hourly, ,50+,2452,81.73,0
+1/09/2018,54304,M,25,Group E,PT, , ,South,8/06/2011,Hourly, ,<30,1181,39.37,0
+1/09/2018,54306,M,38,Group D,PT, , ,South,12/10/2011,Hourly, ,30-49,1055,35.17,0
+1/09/2018,54316,M,24,Group B,PT, , ,Northwest,13/09/2006,Hourly, ,<30,2910,97,0
+1/09/2018,54338,M,28,Group B,FT, , ,North,6/01/2011,Hourly, ,<30,1334,44.47,0
+1/09/2018,54356,M,22,Group E,FT, , ,South,27/04/2012,Hourly, ,<30,857,28.57,0
+1/09/2018,54366,M,22,Group D,PT, , ,West,7/07/2013,Hourly, ,<30,421,14.03,0
+1/09/2018,54372,F,38,Group G,FT, , ,North,10/01/2012,Salary, ,30-49,965,32.17,0
+1/09/2018,54384,F,27,Group G,FT, , ,North,23/01/2013,Salary, ,<30,586,19.53,0
+1/09/2018,54394,F,44,Group A,FT, , ,Midwest,24/06/2014,Salary, ,30-49,69,2.3,0
+1/09/2018,54472,F,69,Group B,FT, , ,Northwest,27/08/2002,Salary, ,50+,4388,146.27,0
+1/09/2018,54504,M,41,Group F,FT, , ,North,15/03/2014,Hourly, ,30-49,170,5.67,0
+1/09/2018,54506,M,28,Group D,FT, , ,East,3/12/2013,Salary, ,<30,272,9.07,0
+1/09/2018,54510,M,45,Group C,FT, , ,Northwest,30/10/2007,Hourly, ,30-49,2498,83.27,0
+1/09/2018,54518,M,21,Group D,FT, , ,North,8/11/2013,Hourly, ,<30,297,9.9,0
+1/09/2018,54526,M,29,Group B,FT, , ,East,8/01/2014,Hourly, ,<30,236,7.87,0
+1/09/2018,54528,F,23,Group B,PT, , ,Midwest,15/12/2011,Hourly, ,<30,991,33.03,0
+1/09/2018,54550,M,26,Group B,PT, , ,North,14/05/2014,Hourly, ,<30,110,3.67,0
+1/09/2018,54552,M,46,Group C,PT, , ,Midwest,19/10/2012,Hourly, ,30-49,682,22.73,0
+1/09/2018,54556,M,22,Group F,PT, , ,South,2/03/2012,Hourly, ,<30,913,30.43,0
+1/09/2018,54564,M,21,Group B,PT, , ,South,2/09/2012,Hourly, ,<30,729,24.3,0
+1/09/2018,54582,M,49,Group F,PT, , ,Northwest,4/01/2013,Hourly, ,30-49,605,20.17,0
+1/09/2018,54614,M,21,Group D,PT, , ,South,25/10/2012,Hourly, ,<30,676,22.53,0
+1/09/2018,54630,F,22,Group B,PT, , ,North,1/08/2014,Hourly, ,<30,31,1.03,0
+1/09/2018,54636,F,21,Group A,PT, , ,Northwest,15/04/2014,Hourly, ,<30,139,4.63,0
+1/09/2018,54656,F,21,Group A,PT, ,Yes,Northwest,3/09/2014,Hourly, ,<30,0,0,0
+1/09/2018,54662,M,22,Group F,PT, , ,North,28/02/2013,Hourly, ,<30,550,18.33,0
+1/09/2018,54890,F,64,Group A,FT, , ,West,5/04/2005,Hourly, ,50+,3436,114.53,0
+1/09/2018,54894,F,23,Group F,PT, , ,West,26/04/2013,Hourly, ,<30,493,16.43,0
+1/09/2018,54906,F,23,Group F,PT, , ,Midwest,15/03/2012,Hourly, ,<30,900,30,0
+1/09/2018,54918,F,21,Group C,PT, , ,Midwest,31/05/2013,Hourly, ,<30,458,15.27,0
+1/09/2018,54986,F,24,Group D,PT, , ,North,7/07/2014,Hourly, ,<30,56,1.87,0
+1/09/2018,55010,M,18,Group B,PT, ,Yes,Central,10/09/2014,Hourly, ,<30,0,0,0
+1/09/2018,55442,F,74,Group G,FT, , ,West,11/03/2003,Hourly, ,50+,4192,139.73,0
+1/09/2018,55468,F,20,Group A,PT, , ,West,10/05/2012,Hourly, ,<30,844,28.13,0
+1/09/2018,55504,M,25,Group A,PT, , ,West,22/08/2014,Hourly, ,<30,10,0.33,0
+1/09/2018,55512,M,55,Group G,PT, , ,West,7/09/2012,Hourly, ,50+,724,24.13,0
+1/09/2018,55514,M,24,Group D,PT, , ,West,15/04/2011,Hourly, ,<30,1235,41.17,0
+1/09/2018,55552,M,23,Group G,PT, , ,Northwest,9/07/2014,Hourly, ,<30,54,1.8,0
+1/09/2018,55566,M,22,Group A,PT, , ,Northwest,29/08/2013,Hourly, ,<30,368,12.27,0
+1/09/2018,55576,F,21,Group F,PT, ,Yes,Northwest,13/09/2014,Hourly, ,<30,0,0,0
+1/09/2018,55578,M,30,Group B,PT, , ,Northwest,7/11/2012,Hourly, ,30-49,663,22.1,0
+1/09/2018,55588,M,43,Group F,PT, , ,Northwest,24/01/2014,Hourly, ,30-49,220,7.33,0
+1/09/2018,55602,M,32,Group D,PT, ,Yes,Northwest,12/09/2014,Hourly, ,30-49,0,0,0
+1/09/2018,55610,M,61,Group B,PT, , ,Northwest,14/08/2014,Hourly, ,50+,18,0.6,0
+1/09/2018,55620,F,19,Group C,PT, , ,Northwest,16/04/2014,Hourly, ,<30,138,4.6,0
+1/09/2018,55632,F,62,Group B,FT, , ,Northwest,13/09/2011,Hourly, ,50+,1084,36.13,0
+1/09/2018,55646,M,20,Group A,FT, , ,Northwest,13/11/2013,Hourly, ,<30,292,9.73,0
+1/09/2018,55648,M,56,Group B,FT, , ,Northwest,14/07/2004,Hourly, ,50+,3701,123.37,0
+1/09/2018,55650,M,23,Group E,PT, , ,North,26/09/2008,Hourly, ,<30,2166,72.2,0
+1/09/2018,55666,M,21,Group D,PT, , ,South,13/07/2011,Hourly, ,<30,1146,38.2,0
+1/09/2018,55700,F,52,Group B,FT, , ,Central,30/08/2005,Hourly, ,50+,3289,109.63,0
+1/09/2018,55704,M,52,Group G,FT, , ,Central,10/05/2005,Hourly, ,50+,3401,113.37,0
+1/09/2018,55714,M,21,Group D,PT, , ,Central,28/02/2014,Hourly, ,<30,185,6.17,0
+1/09/2018,55722,M,40,Group C,PT, , ,Central,4/05/2010,Hourly, ,30-49,1581,52.7,0
+1/09/2018,55726,M,42,Group E,FT, , ,Central,23/10/2008,Hourly, ,30-49,2139,71.3,0
+1/09/2018,55730,M,22,Group A,PT, , ,Central,27/08/2010,Hourly, ,<30,1466,48.87,0
+1/09/2018,55734,M,46,Group F,PT, , ,Central,30/04/2008,Hourly, ,30-49,2315,77.17,0
+1/09/2018,55750,M,40,Group A,FT, , ,Central,24/08/2011,Hourly, ,30-49,1104,36.8,0
+1/09/2018,55770,M,30,Group E,PT, , ,North,11/08/2000,Hourly, ,30-49,5134,171.13,0
+1/09/2018,55776,F,24,Group E,PT, , ,South,1/02/2012,Hourly, ,<30,943,31.43,0
+1/09/2018,55778,M,43,Group B,PT, , ,South,18/05/2011,Hourly, ,30-49,1202,40.07,0
+1/09/2018,55780,M,64,Group A,PT, , ,North,18/08/2011,Hourly, ,50+,1110,37,0
+1/09/2018,56246,M,34,Group E,PT, , ,Central,4/10/2001,Hourly, ,30-49,4715,157.17,0
+1/09/2018,56262,F,20,Group E,PT, ,Yes,Central,9/09/2014,Hourly, ,<30,0,0,0
+1/09/2018,56276,M,24,Group G,PT, , ,Central,21/05/2013,Hourly, ,<30,468,15.6,0
+1/09/2018,56292,F,33,Group G,FT, , ,Central,11/12/2007,Hourly, ,30-49,2456,81.87,0
+1/09/2018,56296,M,56,Group D,FT, , ,Central,26/03/2010,Hourly, ,50+,1620,54,0
+1/09/2018,56300,F,21,Group C,PT, , ,Central,20/08/2014,Hourly, ,<30,12,0.4,0
+1/09/2018,56314,M,49,Group C,PT, , ,Central,9/08/2012,Hourly, ,30-49,753,25.1,0
+1/09/2018,56318,M,32,Group C,PT, , ,Central,25/04/2014,Hourly, ,30-49,129,4.3,0
+1/09/2018,56320,M,26,Group A,PT, , ,Central,23/04/2014,Hourly, ,<30,131,4.37,0
+1/09/2018,56324,M,53,Group C,PT, , ,Central,1/06/2014,Hourly, ,50+,92,3.07,0
+1/09/2018,56330,M,53,Group E,FT, , ,West,17/11/2009,Hourly, ,50+,1749,58.3,0
+1/09/2018,56334,F,25,Group G,PT, , ,West,27/03/2013,Hourly, ,<30,523,17.43,0
+1/09/2018,56354,M,68,Group D,PT, , ,West,9/08/2011,Hourly, ,50+,1119,37.3,0
+1/09/2018,56358,M,64,Group E,PT, , ,West,23/02/2007,Hourly, ,50+,2747,91.57,0
+1/09/2018,56360,M,22,Group B,PT, , ,West,17/10/2013,Hourly, ,<30,319,10.63,0
+1/09/2018,56424,M,40,Group D,PT, , ,Northwest,6/11/2013,Hourly, ,30-49,299,9.97,0
+1/09/2018,56446,M,20,Group F,PT, , ,Northwest,28/09/2013,Hourly, ,<30,338,11.27,0
+1/09/2018,56456,M,20,Group E,PT, , ,Northwest,28/06/2013,Hourly, ,<30,430,14.33,0
+1/09/2018,56464,M,58,Group D,PT, , ,Northwest,17/04/2014,Hourly, ,50+,137,4.57,0
+1/09/2018,56472,M,20,Group F,PT, , ,Northwest,17/10/2013,Hourly, ,<30,319,10.63,0
+1/09/2018,56490,M,66,Group G,FT, , ,South,19/10/1988,Hourly, ,50+,9448,314.93,0
+1/09/2018,56498,M,51,Group C,FT, , ,Midwest,27/01/2000,Hourly, ,50+,5331,177.7,0
+1/09/2018,56508,F,29,Group F,FT, , ,Midwest,4/08/2004,Hourly, ,<30,3680,122.67,0
+1/09/2018,56516,M,50,Group E,FT, , ,Midwest,20/09/1984,Hourly, ,50+,10938,364.6,0
+1/09/2018,56526,M,63,Group C,FT, , ,South,30/06/1987,Hourly, ,50+,9925,330.83,0
+1/09/2018,91744,F,30,Group F,FT, , ,North,19/12/2006,Salary, ,30-49,2813,93.77,0
+1/09/2018,91790,M,20,Group A,PT, , ,North,4/01/2013,Hourly, ,<30,605,20.17,0
+1/09/2018,91824,M,24,Group D,FT, , ,North,24/05/2008,Hourly, ,<30,2291,76.37,0
+1/09/2018,91868,M,60,Group D,FT, , ,East,8/07/2014,Salary, ,50+,55,1.83,0
+1/09/2018,91920,M,27,Group G,FT, , ,East,2/08/2014,Hourly, ,<30,30,1,0
+1/09/2018,92018,F,61,Group D,FT, , ,East,7/11/2012,Hourly, ,50+,663,22.1,0
+1/09/2018,92056,F,52,Group F,FT, , ,East,21/03/2006,Hourly, ,50+,3086,102.87,0
+1/09/2018,92072,F,52,Group B,FT, , ,East,26/08/2008,Salary, ,50+,2197,73.23,0
+1/09/2018,92166,F,59,Group D,FT, , ,East,17/01/2006,Hourly, ,50+,3149,104.97,0
+1/09/2018,92168,F,43,Group B,FT, , ,East,13/05/2003,Hourly, ,30-49,4129,137.63,0
+1/09/2018,92170,F,40,Group G,FT, ,Yes,East,18/09/2014,Hourly, ,30-49,0,0,0
+1/09/2018,92240,M,30,Group D,PT, , ,East,7/05/2008,Hourly, ,30-49,2308,76.93,0
+1/09/2018,92242,M,51,Group F,FT, , ,East,8/07/2014,Salary, ,50+,55,1.83,0
+1/09/2018,92246,F,38,Group B,FT, , ,East,5/10/2010,Salary, ,30-49,1427,47.57,0
+1/09/2018,92250,M,55,Group C,FT, , ,East,8/09/1981,Salary, ,50+,12046,401.53,0
+1/09/2018,92254,M,53,Group F,FT, , ,East,15/11/2011,Salary, ,50+,1021,34.03,0
+1/09/2018,92258,F,61,Group C,FT, , ,East,13/12/2011,Hourly, ,50+,993,33.1,0
+1/09/2018,92260,M,51,Group B,FT, , ,East,27/06/2008,Hourly, ,50+,2257,75.23,0
+1/09/2018,92270,F,39,Group F,FT, , ,East,28/03/2006,Salary, ,30-49,3079,102.63,0
+1/09/2018,92276,F,31,Group E,FT, , ,East,15/04/2014,Salary, ,30-49,139,4.63,0
+1/09/2018,92282,F,30,Group E,FT, , ,East,1/12/2009,Salary, ,30-49,1735,57.83,0
+1/09/2018,92290,F,44,Group F,FT, , ,East,29/10/2013,Salary, ,30-49,307,10.23,0
+1/09/2018,92292,F,31,Group F,FT, , ,East,2/08/2011,Salary, ,30-49,1126,37.53,0
+1/09/2018,92302,M,37,Group E,FT, , ,East,1/03/2008,Salary, ,30-49,2375,79.17,0
+1/09/2018,92310,M,39,Group B,FT, , ,East,25/06/2008,Salary, ,30-49,2259,75.3,0
+1/09/2018,92324,F,28,Group F,FT, , ,East,2/06/2005,Salary, ,<30,3378,112.6,0
+1/09/2018,92328,F,37,Group A,FT, , ,East,4/02/2009,Salary, ,30-49,2035,67.83,0
+1/09/2018,92332,F,46,Group G,FT, , ,East,21/02/2006,Salary, ,30-49,3114,103.8,0
+1/09/2018,92334,M,47,Group F,FT, , ,East,7/01/2009,Salary, ,30-49,2063,68.77,0
+1/09/2018,92336,F,40,Group E,FT, , ,East,25/02/2009,Salary, ,30-49,2014,67.13,0
+1/09/2018,92338,F,51,Group F,FT, , ,East,11/08/2009,Salary, ,50+,1847,61.57,0
+1/09/2018,92340,F,30,Group B,FT, , ,East,29/09/2009,Salary, ,30-49,1798,59.93,0
+1/09/2018,92352,F,54,Group C,FT, , ,East,9/08/2011,Hourly, ,50+,1119,37.3,0
+1/09/2018,92354,F,53,Group D,FT, , ,East,6/08/2013,Hourly, ,50+,391,13.03,0
+1/09/2018,92358,F,58,Group C,FT, , ,East,14/05/2002,Hourly, ,50+,4493,149.77,0
+1/09/2018,92366,F,62,Group F,FT, , ,East,4/04/2006,Hourly, ,50+,3072,102.4,0
+1/09/2018,92386,F,46,Group F,FT, , ,East,3/04/2013,Hourly, ,30-49,516,17.2,0
+1/09/2018,92404,F,31,Group D,FT, , ,East,6/09/2013,Hourly, ,30-49,360,12,0
+1/09/2018,92420,M,27,Group D,FT, , ,East,23/06/2004,Hourly, ,<30,3722,124.07,0
+1/09/2018,92438,F,53,Group B,FT, , ,East,18/12/2007,Hourly, ,50+,2449,81.63,0
+1/09/2018,92440,F,39,Group B,FT, , ,East,7/02/2012,Hourly, ,30-49,937,31.23,0
+1/09/2018,92444,F,37,Group F,FT, ,Yes,East,30/09/2014,Salary, ,30-49,0,0,0
+1/09/2018,92484,F,32,Group C,FT, , ,East,28/04/2011,Salary, ,30-49,1222,40.73,0
+1/09/2018,95686,F,23,Group G,PT, , ,East,19/08/2014,Hourly, ,<30,13,0.43,0
+1/09/2018,95692,M,50,Group F,FT, , ,East,2/09/2009,Salary, ,50+,1825,60.83,0
+1/09/2018,95694,M,34,Group A,FT, , ,East,21/07/2005,Salary, ,30-49,3329,110.97,0
+1/09/2018,95696,F,56,Group E,FT, , ,East,3/11/1987,Salary, ,50+,9799,326.63,0
+1/09/2018,95710,F,26,Group F,FT, , ,East,9/02/2012,Salary, ,<30,935,31.17,0
+1/09/2018,95712,F,23,Group A,FT, , ,East,29/04/2014,Salary, ,<30,125,4.17,0
+1/09/2018,95716,M,29,Group F,FT, , ,East,23/07/2013,Salary, ,<30,405,13.5,0
+1/09/2018,95722,F,38,Group A,FT, , ,East,2/04/2013,Salary, ,30-49,517,17.23,0
+1/09/2018,95726,F,38,Group D,FT, , ,East,23/07/2013,Salary, ,30-49,405,13.5,0
+1/09/2018,95728,M,52,Group F,FT, , ,East,28/05/2003,Salary, ,50+,4114,137.13,0
+1/09/2018,95730,F,30,Group D,FT, , ,East,24/06/2008,Salary, ,30-49,2260,75.33,0
+1/09/2018,95738,M,38,Group C,FT, , ,East,15/04/2014,Salary, ,30-49,139,4.63,0
+1/09/2018,95740,M,35,Group E,FT, , ,East,13/08/2008,Salary, ,30-49,2210,73.67,0
+1/09/2018,95744,F,51,Group B,FT, , ,East,3/03/1987,Salary, ,50+,10044,334.8,0
+1/09/2018,95750,F,23,Group E,FT, , ,East,13/05/2014,Salary, ,<30,111,3.7,0
+1/09/2018,95752,F,32,Group D,FT, , ,East,1/12/2006,Salary, ,30-49,2831,94.37,0
+1/09/2018,95754,M,58,Group G,FT, , ,East,6/06/2006,Salary, ,50+,3009,100.3,0
+1/09/2018,95762,F,37,Group D,FT, , ,East,27/08/2008,Salary, ,30-49,2196,73.2,0
+1/09/2018,95770,F,26,Group F,FT, , ,East,29/05/2013,Salary, ,<30,460,15.33,0
+1/09/2018,95772,F,54,Group A,FT, , ,East,15/05/1984,Salary, ,50+,11066,368.87,0
+1/09/2018,95780,F,34,Group E,FT, , ,East,12/08/2014,Salary, ,30-49,20,0.67,0
+1/09/2018,95782,F,42,Group E,FT, , ,East,17/09/2008,Salary, ,30-49,2175,72.5,0
+1/09/2018,95784,M,43,Group F,FT, , ,East,17/07/2007,Salary, ,30-49,2603,86.77,0
+1/09/2018,95788,F,52,Group G,FT, , ,East,5/01/2010,Salary, ,50+,1700,56.67,0
+1/09/2018,95792,F,37,Group D,PT, , ,East,27/08/2013,Salary, ,30-49,370,12.33,0
+1/09/2018,96072,F,21,Group E,PT, , ,East,13/05/2014,Hourly, ,<30,111,3.7,0
+1/09/2018,96180,M,26,Group E,FT, , ,East,29/01/2008,Hourly, ,<30,2407,80.23,0
+1/09/2018,96198,F,49,Group G,PT, , ,East,18/02/2014,Hourly, ,30-49,195,6.5,0
+1/09/2018,96218,F,32,Group A,PT, , ,East,30/07/2013,Hourly, ,30-49,398,13.27,0
+1/09/2018,96236,F,34,Group A,FT, , ,East,11/10/2011,Hourly, ,30-49,1056,35.2,0
+1/09/2018,96352,F,23,Group E,FT, , ,East,13/02/2013,Hourly, ,<30,565,18.83,0
+1/09/2018,96374,F,18,Group E,PT, , ,East,22/07/2014,Hourly, ,<30,41,1.37,0
+1/09/2018,96382,F,25,Group A,FT, , ,East,20/11/2007,Hourly, ,<30,2477,82.57,0
+1/09/2018,96442,M,46,Group C,FT, , ,East,20/09/2005,Hourly, ,30-49,3268,108.93,0
+1/09/2018,96484,F,21,Group E,PT, , ,East,8/07/2014,Hourly, ,<30,55,1.83,0
+1/09/2018,96504,F,28,Group B,FT, , ,East,11/02/2014,Hourly, ,<30,202,6.73,0
+1/09/2018,96512,F,19,Group C,PT, , ,East,21/01/2014,Hourly, ,<30,223,7.43,0
+1/09/2018,96764,F,36,Group E,FT, , ,East,13/07/2001,Hourly, ,30-49,4798,159.93,0
+1/09/2018,97020,F,41,Group B,FT, , ,East,21/06/2002,Hourly, ,30-49,4455,148.5,0
+1/09/2018,97038,F,26,Group E,FT, , ,East,2/10/2007,Hourly, ,<30,2526,84.2,0
+1/09/2018,97052,F,50,Group A,FT, , ,East,14/05/2008,Hourly, ,50+,2301,76.7,0
+1/09/2018,97066,F,25,Group F,FT, , ,East,19/07/2011,Hourly, ,<30,1140,38,0
+1/09/2018,97198,M,25,Group A,PT, , ,East,24/10/2012,Hourly, ,<30,677,22.57,0
+1/09/2018,97280,M,52,Group C,PT, ,Yes,East,23/09/2014,Hourly, ,50+,0,0,0
+1/09/2018,97318,F,26,Group A,PT, , ,East,13/05/2009,Hourly, ,<30,1937,64.57,0
+1/09/2018,97344,F,37,Group F,FT, , ,East,27/02/2003,Hourly, ,30-49,4204,140.13,0
+1/09/2018,97528,F,19,Group B,PT, , ,East,29/10/2013,Hourly, ,<30,307,10.23,0
+1/09/2018,97546,F,60,Group E,FT, , ,East,24/07/2003,Hourly, ,50+,4057,135.23,0
+1/09/2018,97712,M,20,Group C,PT, , ,East,29/04/2014,Hourly, ,<30,125,4.17,0
+1/09/2018,98080,F,32,Group A,FT, , ,East,9/10/2001,Hourly, ,30-49,4710,157,0
+1/09/2018,98172,F,22,Group D,FT, , ,East,25/02/2014,Hourly, ,<30,188,6.27,0
+1/09/2018,98352,F,23,Group B,FT, , ,East,9/08/2011,Hourly, ,<30,1119,37.3,0
+1/09/2018,98432,F,32,Group E,FT, , ,East,5/04/2005,Hourly, ,30-49,3436,114.53,0
